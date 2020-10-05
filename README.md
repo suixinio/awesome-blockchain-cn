@@ -29,6 +29,11 @@
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
+- [【区块链】共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/) 白话文讲懂什么是拜占庭将军问题并且总结了现在比较常见的共识算法
+- [【区块链】一文看懂区块链：一步一步发明比特币](https://charlesliuyx.github.io/2017/09/24/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE-%E4%BB%A5%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%BA%E4%BE%8B/) 白话文讲解区块链背后原理，了解什么是区块链，小白也能看懂
+- [【区块链】比特币与金融、ICO和监管](https://charlesliuyx.github.io/2017/09/25/%E5%8C%BA%E5%9D%97%E9%93%BE%EF%BC%88%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%89%E4%B8%8E%E9%87%91%E8%9E%8D/) 什么是ICO？比特币与传统金融的一些思考
+
+
 
 ### Ethereum 以太坊进阶
 
@@ -229,10 +234,6 @@ Fabric联盟链相关详细开发资源收集
 
 <br/>
 
-## game 游戏
-
-[网易爱玩](http://play.163.com/special/blockchain/)
-
 ## coin 币圈相关
 
 ## 常用必备
@@ -253,14 +254,14 @@ Fabric联盟链相关详细开发资源收集
 |--|--|--|
 |[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
 |[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
-|[比特儿：支持法币和各种分叉币 ](https://gate.io/signup/485240)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/mobile/redpacket?ref=bnpm8imB)|
+|[比特儿：支持法币和各种分叉币 ](https://gate.io/)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/)|
 |[OKEX：支持法币和期货](https://www.okex.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okex.com/c2c/trade/trade.do)|
-|[EXX：可信赖的数字货币交易网 ](https://www.exx.com/r/c4c2539b9f192f47492a15b9afd8a8ea)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://otc.huobi.pro/)|
-|[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/#/?r=E3lswr)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|
-|[ZB：国内老字号中比特合作平台 ](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|[BitcoinWorld：比特币世界场外平台](https://bitcoinworld.com/register?referral=64597)|
+|[EXX：可信赖的数字货币交易网 ](https://www.exx.com/)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://otc.huobi.pro/)|
+|[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.zb.com/)|
+|[ZB：国内老字号中比特合作平台 ](https://vip.zb.com/)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|
 |[Bitfinex：经常世界第一的香港交易所](https://www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](https://quoinex.com/)|[LinkCoin：好用的场外交易平台](https://www.linkcoin.pro/)|
 |[AEX：比特时代海外版 ](https://www.aex.com/)|[BIT-Z：全球化数字货币交易平台](https://www.bit-z.com/)|-|
-|[ALLCOIN：澳大利亚上市公司交易所 ](https://www.allcoin.com/Account/RegisterByPhoneNumber/?InviteCode=MTQ2OTk4MDgwMDg5Mzgw)|[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
+||[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
 |[币赢网：坚挺支持法币的交易所 ](https://www.coinw.com/)|[CME：比特币期货平台](http://www.cmegroup.com/)|-|
 |[CEX：币久海外版](https://www.cex.com/)|-|-|
 |[BigOne：老猫掌管的币币交易所 ](https://big.one/)|-|-|
@@ -359,8 +360,8 @@ Fabric联盟链相关详细开发资源收集
 |[ViaBTC矿池](https://pool.viabtc.com/)|[云象区块链]( http://www.yunphant.com/)|[TopIcoList]( http://pieifo.com/)|
 |[F2Pool 鱼池](https://www.f2pool.com/)|[复杂美区块链](http://www.33.cn/)|[IcoRating](https://topicolist.com/)|
 |[莱比特矿池 ](http://www.btc.top/)|[井通区块链]( https://www.jingtum.com/)|[IcoWeb]( https://icorating.com/)|
-|[国池 ](https://pool.btcchina.com/)|[太一云](https://taiyiyun.com/)|[IcoAlert](http://www.icoweb.co/)|
-|[算力巢](https://www.hashnest.com/)|[安链云]( https://www.anlink.com/)|[Icodrops：国外权威项目评级网站 ]( https://www.icoalert.com/)|
+|[国池 ](https://pool.btcchina.com/)|-|[IcoAlert](http://www.icoweb.co/)|
+|[算力巢](https://www.hashnest.com/)|-|[Icodrops：国外权威项目评级网站 ]( https://www.icoalert.com/)|
 |[算力吧 ](https://pow8.com/)|-|[Coingecko：最新国外项目众筹列表](http://icodrops.com/)|
 |[BTC难度算力 ](http://bitcoin.sipa.be/)|-|-|
 |[MiningPool ](https://miningpoolhub.com/)|-|-|
