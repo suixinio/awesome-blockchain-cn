@@ -252,14 +252,14 @@ Fabric联盟链相关详细开发资源收集
 
 |国内交易所|国外交易所|场外交易所|
 |--|--|--|
-|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
+|[币安：服务最好的币币交易所](https://www.binance.com/)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
 |[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
 |[比特儿：支持法币和各种分叉币 ](https://gate.io/)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/)|
 |[OKEX：支持法币和期货](https://www.okex.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okex.com/c2c/trade/trade.do)|
 |[EXX：可信赖的数字货币交易网 ](https://www.exx.com/)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://otc.huobi.pro/)|
 |[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.zb.com/)|
 |[ZB：国内老字号中比特合作平台 ](https://vip.zb.com/)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|
-|[Bitfinex：经常世界第一的香港交易所](https://www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](https://quoinex.com/)|[LinkCoin：好用的场外交易平台](https://www.linkcoin.pro/)|
+|[Bitfinex：经常世界第一的香港交易所](https://bitfinex.com/?refcode=J1lt4Bfbz)|[Quoinex：日本最好的持照交易平台](https://quoinex.com/)|[LinkCoin：好用的场外交易平台](https://www.linkcoin.pro/)|
 |[AEX：比特时代海外版 ](https://www.aex.com/)|[BIT-Z：全球化数字货币交易平台](https://www.bit-z.com/)|-|
 ||[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
 |[币赢网：坚挺支持法币的交易所 ](https://www.coinw.com/)|[CME：比特币期货平台](http://www.cmegroup.com/)|-|
